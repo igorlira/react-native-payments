@@ -1,6 +1,6 @@
 {
   "name": "@citifyd/react-native-payments",
-  "version": "0.7.0",
+  "version": "0.7.0-patch2",
   "scripts": {
     "run:packager": "cd examples/native && yarn run:packager",
     "run:ios": "cd examples/native && yarn run:ios",
